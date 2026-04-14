@@ -30,7 +30,7 @@ This project focuses on implementing network defense mechanisms using intrusion 
 ### Firewall Rules
 ![Firewall](./screenshots/firewall-rules.png)
 
-##  Full Report
+###  Full Report
 [View Full Report](./screenshots/attack-test.png)
 
 
