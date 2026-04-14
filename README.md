@@ -1,6 +1,6 @@
 # Network_Security_Defense
 Network security project using Snort IDS and iptables firewall
-# Network Security & Defense Project (Snort + Firewall)
+
 
 ##  Overview
 This project focuses on implementing network defense mechanisms using intrusion detection and firewall configurations in a controlled lab environment.
